@@ -19,7 +19,7 @@ You will further your Bootstrap skills, feel more comfortable writing Bootstrap 
 
 ## Live Demo
 
-[Check out this link](https://codeschool-project-demos.github.io/BootstrapPortfolioProject/) to see a working version of this project. Feel free to customize your project even further by adding more custom CSS styles to it once you've completed the steps.
+[Check out this link](https://cristytarantino.github.io/BootstrapPortfolioProject/) to see a working version of this project. Feel free to customize your project even further by adding more custom CSS styles to it once you've completed the steps.
 
 ## Setup
 
@@ -81,4 +81,4 @@ To deploy your `/src` directory to GitHub Pages, be sure to commit all of your c
 git subtree push --prefix src origin gh-pages
 ```
 
-This will push the `src` folder up to GitHub on the `gh-pages` branch. After that, you should be able to open up `http://cristytarantino.github.io/BootstrapPortfolioProject`.
+This will push the `src` folder up to GitHub on the `gh-pages` branch. After that, you should be able to open up `http://username.github.io/BootstrapPortfolioProject`.
